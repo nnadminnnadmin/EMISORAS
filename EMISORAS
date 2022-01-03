@@ -23,6 +23,8 @@ https://i40.letio.com/9122.aac
 #EXTINF:-1 tvg-name="TROPICANA BUCARAMANGA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA BUCARAMANGA
 https://20813.live.streamtheworld.com/TR_BUCARAMANGAAAC_SC
 
+https://15383.live.streamtheworld.com/TR_BUCARAMANGA_SC
+
 #EXTINF:-1 tvg-name="RADIO 1 BUCARAMANGA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RADIO 1 BUCARAMANGA
 https://20833.live.streamtheworld.com/RADIO_UNO_BUCARAMANGAAAC.aac
 
@@ -147,14 +149,17 @@ http://salt-lake-server.myautodj.com:8006/;
 http://salt-lake-server.myautodj.com:8000/;
 #EXTINF:-1 tvg-name="Olimpica Stereo 99.0 Zaragoza" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",Olimpica Stereo 99.0 Zaragoza
 http://srv0410.lcinternet.com:8033/live
+
+
 #EXTINF:-1 tvg-name="TROPICANA BARRANQUILLA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA BARRANQUILLA
 http://17973.live.streamtheworld.com/TR_BARRANQUILLAAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA BOGOTA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA BOGOTA
-http://19493.live.streamtheworld.com/TROPICANAAAC.aac?
+https://18803.live.streamtheworld.com/TROPICANAAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA TUNJA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA TUNJA
 http://17973.live.streamtheworld.com/TR_TUNJAAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA CALI" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CALI
-https://16083.live.streamtheworld.com/TR_CALIAAC.aac?
+
+https://23033.live.streamtheworld.com/TR_CALIAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA CARTAGENA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CARTAGENA
 http://17973.live.streamtheworld.com/TR_CARTAGENAAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA CUCUTA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CUCUTA
