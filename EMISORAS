@@ -152,38 +152,39 @@ http://srv0410.lcinternet.com:8033/live
 
 
 #EXTINF:-1 tvg-name="TROPICANA BARRANQUILLA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA BARRANQUILLA
-http://17973.live.streamtheworld.com/TR_BARRANQUILLAAAC.aac?
+https://24063.live.streamtheworld.com/TR_BARRANQUILLAAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA BOGOTA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA BOGOTA
 https://18803.live.streamtheworld.com/TROPICANAAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA TUNJA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA TUNJA
-http://17973.live.streamtheworld.com/TR_TUNJAAAC.aac?
+https://25043.live.streamtheworld.com/TR_TUNJAAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA CALI" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CALI
-
 https://23033.live.streamtheworld.com/TR_CALIAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA CARTAGENA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CARTAGENA
-http://17973.live.streamtheworld.com/TR_CARTAGENAAAC.aac?
+https://24063.live.streamtheworld.com/TR_CARTAGENAAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA CUCUTA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CUCUTA
-http://17973.live.streamtheworld.com/TR_CUCUTAAAC.aac?
+https://14543.live.streamtheworld.com/TR_CUCUTAAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA IBAGUE" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA IBAGUE
-http://17973.live.streamtheworld.com/TR_IBAGUEAAC.aac?
+https://24983.live.streamtheworld.com/TR_IBAGUEAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA MANIZALES" tvg-logo="",TROPICANA MANIZALES
-http://17973.live.streamtheworld.com/TR_MANIZALESAAC.aac?
+https://24983.live.streamtheworld.com/TR_MANIZALESAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA MEDELLIN" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA MEDELLIN
 http://17973.live.streamtheworld.com/TR_MEDELLINAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA MONTERIA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA MONTERIA
-http://17973.live.streamtheworld.com/TR_MONTERIAAAC.aac?
+https://13743.live.streamtheworld.com/TR_MONTERIAAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA NEIVA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA NEIVA
-http://17973.live.streamtheworld.com/TR_NEIVAAAC.aac?
+https://24063.live.streamtheworld.com/TR_NEIVAAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA PASTO" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA PASTO
-http://17973.live.streamtheworld.com/TR_PASTOAAC.aac?
+https://22833.live.streamtheworld.com/TR_PASTOAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA PEREIRA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA PEREIRA
-http://17973.live.streamtheworld.com/TR_PEREIRAAAC.aac?
+https://24983.live.streamtheworld.com/TR_PEREIRAAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA POPAYAN" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA POPAYAN
-http://17973.live.streamtheworld.com/TR_POPAYANAAC.aac?
+https://22983.live.streamtheworld.com/TR_POPAYANAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA VILLAVICENCIO" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA VILLAVICENCIO
-https://23113.live.streamtheworld.com/TR_VILLAVICENCIOAAC.aac?
+https://14943.live.streamtheworld.com/TR_VILLAVICENCIOAAC.aac
 #EXTINF:-1 tvg-name="TROPICANA ARMENIA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA ARMENIA
 http://17973.live.streamtheworld.com/TR_ARMENIAAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA LA DORADA" tvg-logo="",TROPICANA LA DORADA
+https://radiohd.streaminghd.co:7336/stream?1611951039
 
 
 
