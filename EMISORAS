@@ -47,14 +47,14 @@ https://24963.live.streamtheworld.com/LA_MEGA_BOGAAC_SC
 https://24233.live.streamtheworld.com/RADIO_ACTIVA_SC
 
 #EXTINF:-1 tvg-name="OXIGENO BOGOTA" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO BOGOTA
-http://17973.live.streamtheworld.com/OXIGENOAAC.aac?
+https://22983.live.streamtheworld.com/OXIGENOAAC_SC
 
 #EXTINF:-1 tvg-name="Best fm" tvg-logo="",Best fm
 http://radios-cr.cdn.nedmedia.io/radios/bestfm.m3u8
 #EXTINF:-1 tvg-name="MAXIMA Espana" tvg-logo="",MAXIMA Espana
-https://21313.live.streamtheworld.com/LOS40_DANCE.mp3
+https://radios.sonidoshd.com:7105/stream/1/
 #EXTINF:-1 tvg-name="MAXIMA MEXICO" tvg-logo="",MAXIMA MEXICO
-http://192.99.16.17:3410/;
+http://www.tuasesorweb.com:8036/;
 #EXTINF:-1 tvg-name=" La X ONLINE" tvg-logo="", La X ONLINE
 http://65.60.45.74:8088/;
 #EXTINF:-1 tvg-name=" Radio Caprice Trance" tvg-logo="", Radio Caprice Trance
@@ -78,7 +78,7 @@ https://22223.live.streamtheworld.com/BLURADIO_SC
 #EXTINF:-1 tvg-name=" LA W" tvg-logo="", LA W
 https://14003.live.streamtheworld.com/WRADIO_SC
 #EXTINF:-1 tvg-name=" LA FM" tvg-logo="", LA FM
-https://20823.live.streamtheworld.com/LA_FM_BOGAAC_SC
+https://22963.live.streamtheworld.com/LA_FM_BOGAAC.aac
 
 
 #EXTINF:-1 tvg-name=" RCN San Gil" tvg-logo="", RCN San Gil
