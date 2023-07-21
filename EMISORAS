@@ -156,25 +156,25 @@ https://22963.live.streamtheworld.com/LA_FM_BOGAAC.aac
 #EXTINF:-1 tvg-name=" RCN San Gil" tvg-logo="", RCN San Gil
 https://21933.live.streamtheworld.com/RCN_RADIO_SAN_GILAAC.aac?
 #EXTINF:-1 tvg-name=" CALIENTE 1330" tvg-logo="", CALIENTE 1330
-https://radio30.virtualtronics.com:20028/stream/1/
+https://radiolatina.info/8084/stream
 #EXTINF:-1 tvg-name=" SANTA BARBARA STEREO" tvg-logo="", SANTA BARBARA STEREO
-http://server.lajradio.eu:8122/stream
+https://sonic.paulatina.co/9002/stream;
 #EXTINF:-1 tvg-name=" Mirador Estereo Barichara" tvg-logo="", Mirador Estereo Barichara
 https://play10.tikast.com/proxy/miradorstereo?mp=/stream
 #EXTINF:-1 tvg-name=" Guadalupe Estereo" tvg-logo="", Guadalupe Estereo
 http://192.99.35.215:5049/stream
 #EXTINF:-1 tvg-name=" Santuario Estereo" tvg-logo="", Santuario Estereo
-https://radiohd.streaminghd.co:7360/stream
+https://play10.tikast.com/proxy/miradorstereo?mp=/stream
 #EXTINF:-1 tvg-name=" SEÑORA DEL SOCORRO" tvg-logo="", SEÑORA DEL SOCORRO
-https://play10.tikast.com/proxy/diocesana?mp=/stream
+https://zapatoca.net:10054/live
 #EXTINF:-1 tvg-name=" JOSE ANTONIO GALAN" tvg-logo="", JOSE ANTONIO GALAN
-https://radiolatina.info:10985/;
+https://radiolatina.info/9906/;
 #EXTINF:-1 tvg-name=" RADIO LENGUERKE" tvg-logo="", RADIO LENGUERKE
-https://zapatoca.net:10000/radiolenguerke
+https://zapatoca.net:8088/radiolenguerke
 #EXTINF:-1 tvg-name=" RADIO ZAPATOCA" tvg-logo="", RADIO ZAPATOCA
-https://zapatoca.net:10000/radiozapatoca
+https://zapatoca.net:8088/radiozapatoca
 #EXTINF:-1 tvg-name=" LA CUPULA 98.7" tvg-logo="", LA CUPULA 98.7
-http://stream.zeno.fm/zb8n2bat1p8uv
+https://zapatoca.net:10054/live
 #EXTINF:-1 tvg-name=" Mogotes Stereo" tvg-logo="", Mogotes Stereo
 https://play10.tikast.com/proxy/mogotes?mp=/stream%E2%80%A8
 #EXTINF:-1 tvg-name=" Villanueva Stereo" tvg-logo="", Villanueva Stereo
