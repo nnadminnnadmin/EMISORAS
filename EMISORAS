@@ -13,7 +13,7 @@ https://26683.live.streamtheworld.com/OLP_BARRANQUILLA_SC
 #EXTINF:-1 tvg-name="OLIMPICA STEREO BOGOTA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO BOGOTA
 https://22823.live.streamtheworld.com/OLP_BOGOTA_SC
 #EXTINF:-1 tvg-name="OLIMPICA STEREO CALI" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO CALI
-https://18163.live.streamtheworld.com/OLP_CALIAAC.aac?dist=OlpCaliWeb
+https://24383.live.streamtheworld.com/OLP_CALIAAC.aac?dist=OlpCaliWeb
 #EXTINF:-1 tvg-name="OLIMPICA STEREO CARTAGENA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO CARTAGENA
 https://24223.live.streamtheworld.com/OLP_CARTAGENA_SC
 #EXTINF:-1 tvg-name="OLIMPICA STEREO CUCUTA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO CUCUTA
@@ -29,9 +29,9 @@ https://27343.live.streamtheworld.com/OLP_MONTERIAAAC.aac?dist=OlpMonWeb
 #EXTINF:-1 tvg-name="OLIMPICA STEREO NEIVA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO NEIVA
 https://27033.live.streamtheworld.com/OLP_NEIVAAAC.aac?dist=OlpNeiWeb
 #EXTINF:-1 tvg-name="OLIMPICA STEREO PEREIRA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO PEREIRA
-https://26523.live.streamtheworld.com/OLP_PEREIRAAAC.aac?dist=OlpPerWeb
+https://26593.live.streamtheworld.com/OLP_PEREIRAAAC.aac?dist=OlpPerWeb
 #EXTINF:-1 tvg-name="OLIMPICA STEREO SANTA MARTA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO SANTA MARTA
-https://27363.live.streamtheworld.com/OLP_SANTA_MARTAAAC.aac?dist=OlpSanWeb
+https://24493.live.streamtheworld.com/OLP_SANTA_MARTAAAC.aac?dist=OlpSanWeb
 #EXTINF:-1 tvg-name="OLIMPICA STEREO SINCELEJO" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO SINCELEJO
 https://26253.live.streamtheworld.com/OLP_SINCELEJOAAC.aac?dist=OlpSinWeb?
 #EXTINF:-1 tvg-name="OLIMPICA STEREO VALLEDUPAR" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO VALLEDUPAR
@@ -58,7 +58,7 @@ https://26683.live.streamtheworld.com/TR_TUNJA.mp3?dist=onlineradiobox
 #EXTINF:-1 tvg-name="TROPICANA TUNJA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA TUNJA
 https://24363.live.streamtheworld.com/TR_TUNJAAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA CALI" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CALI
-https://26663.live.streamtheworld.com/TR_CALIAAC.aac?
+https://26513.live.streamtheworld.com/TR_CALIAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA CARTAGENA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CARTAGENA
 https://26493.live.streamtheworld.com/TR_CARTAGENAAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA CUCUTA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CUCUTA
@@ -106,24 +106,16 @@ https://26563.live.streamtheworld.com/BLURADIO_ADP_SC?dist=%252520blu_web
 
 
 
-#EXTINF:-1 tvg-name="OXIGENO BUCARAMANGA" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO BUCARAMANGA
-https://18243.live.streamtheworld.com/OXIGENOAAC_SC
-
-#EXTINF:-1 tvg-name="CANDELA STEREO" tvg-logo="",CANDELA STEREO
-https://22823.live.streamtheworld.com/CANDELAESTEREO_SC
 
 
-#EXTINF:-1 tvg-name="La Mega 97.9" tvg-logo="", La Mega 97.9
-https://24963.live.streamtheworld.com/LA_MEGA_BOGAAC_SC
-
+#EXTINF:-1 tvg-name="La Mega 90.9" tvg-logo="", La Mega 90.9
+https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/live.m3u8
 #EXTINF:0 tvg-id="RADIO ACTIVA" group-title="Channels",RADIO ACTIVA
 https://24233.live.streamtheworld.com/RADIO_ACTIVA_SC
-
 #EXTINF:-1 tvg-name="OXIGENO BOGOTA" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO BOGOTA
-https://22983.live.streamtheworld.com/OXIGENOAAC_SC
-
+https://27343.live.streamtheworld.com/LOS40_COLOMBIAAAC.aac
 #EXTINF:-1 tvg-name="Best fm" tvg-logo="",Best fm
-http://radios-cr.cdn.nedmedia.io/radios/bestfm.m3u8
+https://d2bvq5yazcohix.cloudfront.net/bestfm.m3u8
 #EXTINF:-1 tvg-name="MAXIMA Espana" tvg-logo="",MAXIMA Espana
 https://radios.sonidoshd.com:7105/stream/1/
 #EXTINF:-1 tvg-name="MAXIMA MEXICO" tvg-logo="",MAXIMA MEXICO
@@ -136,25 +128,21 @@ https://s5.radio.co/s980fc5249/listen
 http://79.120.77.11:9021/
 #EXTINF:-1 tvg-name=" TOTO RADIO" tvg-logo="", TOTO RADIO
 https://streams.exeamedia.com/tottorelay
-#EXTINF:-1 tvg-name="COCA COLA FM" tvg-logo="", COCA COLA FM
-https://str3.openstream.co/1084
+
+
+
 #EXTINF:-1 tvg-name="LA KALLE 96.9 BOGOTA POPULAR" tvg-logo="", LA KALLE 96.9 BOGOTA POPULAR
-https://18533.live.streamtheworld.com/LA_KALLE_SC
-
+https://22823.live.streamtheworld.com/LA_KALLE_ADP.aac?dist=%2520blu_web
+#EXTINF:-1 tvg-name="CANDELA STEREO" tvg-logo="",CANDELA STEREO
+https://22823.live.streamtheworld.com/CANDELAESTEREO_SC
 #EXTINF:-1 tvg-name="Sonora Stereo Cimitarra" tvg-logo="", Sonora Stereo Cimitarra
-https://play10.tikast.com/proxy/sonora?mp=/stream%E2%80%A8/stream
-
-
-
-
-
-
+https://tunzilla.com/http://cast1.my-control-panel.com:7056/stream
 #EXTINF:-1 tvg-name=" LA FM" tvg-logo="", LA FM
-https://22963.live.streamtheworld.com/LA_FM_BOGAAC.aac
+https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/live.m3u8
 
 
 #EXTINF:-1 tvg-name=" RCN San Gil" tvg-logo="", RCN San Gil
-https://21933.live.streamtheworld.com/RCN_RADIO_SAN_GILAAC.aac?
+https://cdn-web.tunein.com/assets/media/blank.mp3
 #EXTINF:-1 tvg-name=" CALIENTE 1330" tvg-logo="", CALIENTE 1330
 https://radiolatina.info/8084/stream
 #EXTINF:-1 tvg-name=" SANTA BARBARA STEREO" tvg-logo="", SANTA BARBARA STEREO
@@ -162,7 +150,7 @@ https://sonic.paulatina.co/9002/stream;
 #EXTINF:-1 tvg-name=" Mirador Estereo Barichara" tvg-logo="", Mirador Estereo Barichara
 https://play10.tikast.com/proxy/miradorstereo?mp=/stream
 #EXTINF:-1 tvg-name=" Guadalupe Estereo" tvg-logo="", Guadalupe Estereo
-http://192.99.35.215:5049/stream
+https://play10.tikast.com/proxy/guadalupestereo?mp=/stream
 #EXTINF:-1 tvg-name=" Santuario Estereo" tvg-logo="", Santuario Estereo
 https://play10.tikast.com/proxy/miradorstereo?mp=/stream
 #EXTINF:-1 tvg-name=" SEÑORA DEL SOCORRO" tvg-logo="", SEÑORA DEL SOCORRO
@@ -208,10 +196,14 @@ https://20833.live.streamtheworld.com/RUMBA_SAN_ANDRESAAC.aac
 #EXTINF:-1 tvg-name="RUMBA OCAÑA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA OCAÑA
 https://22823.live.streamtheworld.com/RUMBA_OCANAAAC.aac
 
+#EXTINF:-1 tvg-name="RUMBA IPIALES" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA IPIALES
+https://radiohd.streaminghd.co:7049/stream?1690308174
+#EXTINF:-1 tvg-name="RADIO UNO BARBOSA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA IPIALES
+https://radiohd.streaminghd.co:7049/stream?1690308174
 
 
-#EXTINF:-1 tvg-name="RADIO 1 BARBOSA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RADIO 1 BARBOSA
-https://20833.live.streamtheworld.com/RADIO_UNO_BARBOSAAAC.aac
+
+
 #EXTINF:-1 tvg-name="RADIO 1 BOGOTA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RADIO 1 BOGOTA
 https://20833.live.streamtheworld.com/RADIO_1_BOGAAC.aac
 #EXTINF:-1 tvg-name="RADIO 1 BUENAVENTURA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RADIO 1 BUENAVENTURA
