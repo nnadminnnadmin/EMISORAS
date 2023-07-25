@@ -152,7 +152,7 @@ https://play10.tikast.com/proxy/miradorstereo?mp=/stream
 #EXTINF:-1 tvg-name=" Guadalupe Estereo" tvg-logo="", Guadalupe Estereo
 https://play10.tikast.com/proxy/guadalupestereo?mp=/stream
 #EXTINF:-1 tvg-name=" Santuario Estereo" tvg-logo="", Santuario Estereo
-https://play10.tikast.com/proxy/miradorstereo?mp=/stream
+https://radiohd.streaminghd.co:7360/stream
 #EXTINF:-1 tvg-name=" SEÑORA DEL SOCORRO" tvg-logo="", SEÑORA DEL SOCORRO
 https://zapatoca.net:10054/live
 #EXTINF:-1 tvg-name=" JOSE ANTONIO GALAN" tvg-logo="", JOSE ANTONIO GALAN
@@ -162,7 +162,7 @@ https://zapatoca.net:8088/radiolenguerke
 #EXTINF:-1 tvg-name=" RADIO ZAPATOCA" tvg-logo="", RADIO ZAPATOCA
 https://zapatoca.net:8088/radiozapatoca
 #EXTINF:-1 tvg-name=" LA CUPULA 98.7" tvg-logo="", LA CUPULA 98.7
-https://zapatoca.net:10054/live
+https://stream-152.zeno.fm/3v767bfpw38uv?zs=FAoX7MzIQxGi_VPfRASGMQ
 #EXTINF:-1 tvg-name=" Mogotes Stereo" tvg-logo="", Mogotes Stereo
 https://play10.tikast.com/proxy/mogotes?mp=/stream%E2%80%A8
 #EXTINF:-1 tvg-name=" Villanueva Stereo" tvg-logo="", Villanueva Stereo
@@ -172,30 +172,6 @@ https://play10.tikast.com/proxy/villanueva?mp=/stream
 
 
 
-
-
-
-#EXTINF:-1 tvg-name="RUMBA BARRANQUILLA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA BARRANQUILLA
-https://21933.live.streamtheworld.com/RUMBA_BARRANQUILLAAAC.aac
-#EXTINF:-1 tvg-name="RUMBA RIOHACHA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA RIOHACHA
-https://21933.live.streamtheworld.com/RUMBA_RIOHACHAAAC.aac
-#EXTINF:-1 tvg-name="RUMBA SANTA MARTA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA SANTA MARTA
-https://20833.live.streamtheworld.com/RUMBA_SANTA_MARTAAAC.aac
-#EXTINF:-1 tvg-name="RUMBA BARRANCA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA BARRANCA
-https://21933.live.streamtheworld.com/RUMBA_BARRANCAAAC.aac
-#EXTINF:-1 tvg-name="RUMBA CAUCASIA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA CAUCASIA
-https://20283.live.streamtheworld.com/RUMBA_CAUCASIAAAC.aac
-#EXTINF:-1 tvg-name="RUMBA PLANETA RICA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA PLANETA RICA
-https://21933.live.streamtheworld.com/RUMBA_PLANETA_RICAAAC.aac
-#EXTINF:-1 tvg-name="RUMBA LORICA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA LORICA
-https://22823.live.streamtheworld.com/RUMBA_LORICAAAC.aac
-#EXTINF:-1 tvg-name="RUMBA TUMACO" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA TUMACO
-https://20833.live.streamtheworld.com/RUMBA_TUMACOAAC.aac
-#EXTINF:-1 tvg-name="RUMBA SAN ANDRES" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA SAN ANDRES
-https://20833.live.streamtheworld.com/RUMBA_SAN_ANDRESAAC.aac
-#EXTINF:-1 tvg-name="RUMBA OCAÑA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA OCAÑA
-https://22823.live.streamtheworld.com/RUMBA_OCANAAAC.aac
-
 #EXTINF:-1 tvg-name="RUMBA IPIALES" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA IPIALES
 https://radiohd.streaminghd.co:7049/stream?1690308174
 #EXTINF:-1 tvg-name="RADIO UNO BARBOSA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA IPIALES
@@ -203,198 +179,26 @@ https://radiohd.streaminghd.co:7049/stream?1690308174
 
 
 
-
-#EXTINF:-1 tvg-name="RADIO 1 BOGOTA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RADIO 1 BOGOTA
-https://20833.live.streamtheworld.com/RADIO_1_BOGAAC.aac
-#EXTINF:-1 tvg-name="RADIO 1 BUENAVENTURA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RADIO 1 BUENAVENTURA
-https://20823.live.streamtheworld.com/RADIO_UNO_BUENAVENTURAAAC.aac
-#EXTINF:-1 tvg-name="RADIO 1 MANIZALES" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RADIO 1 MANIZALES
-https://20323.live.streamtheworld.com/RADIO_UNO_MANIZALESAAC.aac
-#EXTINF:-1 tvg-name="RADIO 1 VILLA DE LEYVA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RADIO 1 VILLA DE LEYVA
-https://20833.live.streamtheworld.com/RADIO_UNO_LEYVAAAC.aac
-#EXTINF:-1 tvg-name="RADIO 1 VAllEDUPAR" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RADIO 1 VALLEDUPAR
-https://20283.live.streamtheworld.com/RADIO_UNO_VALLEDUPARAAC.aac
-#EXTINF:-1 tvg-name="RADIO 1 TUNJA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RADIO 1 TUNJA
-https://20823.live.streamtheworld.com/RADIO_UNO_TUNJAAAC.aac
-
-#EXTINF:-1 tvg-name=" OXIGENO ARMENIA" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png", OXIGENO ARMENIA
-http://i50.letio.com/9162.aac
-#EXTINF:-1 tvg-name="OXIGENO BARRANQUILLA" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO BARRANQUILLA
-https://17323.live.streamtheworld.com/OXIGENOAAC_SC
-
-#EXTINF:-1 tvg-name="OXIGENO CALI" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO CALI
-https://16963.live.streamtheworld.com/OXIGENOAAC_SC
-#EXTINF:-1 tvg-name="OXIGENO CUCUTA" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO CUCUTA
-http://17973.live.streamtheworld.com/OXI_CUCUTAAAC.aac?
-#EXTINF:-1 tvg-name="OXIGENO MANIZALES" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO MANIZALES
-http://17973.live.streamtheworld.com/OXI_MANIZALESAAC.aac?
-#EXTINF:-1 tvg-name="OXIGENO MEDELLIN" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO MEDELLIN
-http://17973.live.streamtheworld.com/OXI_MEDELLINAAC.aac?
-#EXTINF:-1 tvg-name="OXIGENO PEREIRA" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO PEREIRA
-http://17973.live.streamtheworld.com/OXI_PEREIRAAAC.aac?
-#EXTINF:-1 tvg-name="OXIGENO POPAYAN" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO POPAYAN
-http://17973.live.streamtheworld.com/OXI_POPAYANAAC.aac?
-
-
-#EXTINF:-1 tvg-name="LA MEGA BOGOTA" tvg-logo="",LA MEGA BOGOTA
-https://21933.live.streamtheworld.com/LA_MEGA_BOGAAC_SC
-#EXTINF:-1 tvg-name="LA MEGA RETRO" tvg-logo="",LA MEGA RETRO
-http://live1.rcnmundo.com/lamegaretro.mp3
-#EXTINF:-1 tvg-name="LA MEGA APARTADO" tvg-logo="",LA MEGA APARTADO
-http://live2.rcnmundo.com/lamegaarmenia.mp3
-#EXTINF:-1 tvg-name="LA MEGA MEDELLIN" tvg-logo="",LA MEGA MEDELLIN
-http://live3.rcnmundo.com/lamegamedellin.mp3
-#EXTINF:-1 tvg-name="LA MEGA CUCUTA" tvg-logo="",LA MEGA CUCUTA
-http://live2.rcnmundo.com/lamegacucuta.mp3
-#EXTINF:-1 tvg-name="LA MEGA POPAYAN" tvg-logo="",LA MEGA POPAYAN
-http://live2.rcnmundo.com/lamegapopayan.mp3
-#EXTINF:-1 tvg-name="LA MEGA BUENAVENTURA" tvg-logo="",LA MEGA BUENAVENTURA
-http://live1.rcnmundo.com/lamegabuenaventura.mp3
-#EXTINF:-1 tvg-name="LA MEGA CALI" tvg-logo="",LA MEGA CALI
-http://live1.rcnmundo.com/lamegacali.mp3
-#EXTINF:-1 tvg-name="LA MEGA GIRARDOT" tvg-logo="",LA MEGA GIRARDOT
-http://live1.rcnmundo.com/lamegagirardot.mp3
-#EXTINF:-1 tvg-name="LA MEGA CARTAGENA" tvg-logo="",LA MEGA CARTAGENA
-http://live1.rcnmundo.com/lamegacartagena.mp3
-#EXTINF:-1 tvg-name="LA MEGA PUERTO RICO" tvg-logo="",LA MEGA PUERTO RICO
-http://65.19.131.132/sbsystems-wskqfmaac-ib-64
-
-
-
-
-#EXTINF:-1 tvg-name="BARRANQUILLA STEREO" tvg-logo="",BARRANQUILLA STEREO
-http://radio.yaservers.com:8197/;
-#EXTINF:-1 tvg-name="RADIO ACTIVA" tvg-logo="",RADIO ACTIVA
-http://208.80.54.77/RADIO_ACTIVA_SC
-#EXTINF:-1 tvg-name="LOS 40 PRINCIPALES MEDELLIN" tvg-logo="",LOS 40 PRINCIPALES MEDELLIN
-http://17973.live.streamtheworld.com/LOS40COL_MEDAAC.aac?
-
 #EXTINF:-1 tvg-name="LOS 40 PRINCIPALES Espana" tvg-logo="",LOS 40 PRINCIPALES Espana
 http://20103.live.streamtheworld.com/LOS40_SC
-#EXTINF:-1 tvg-name="LOS 40 PRINCIPALES Mexico" tvg-logo="",LOS 40 PRINCIPALES Mexico
-http://19173.live.streamtheworld.com/LOS40_MEXICOAAC.aac?
 
-#EXTINF:-1 tvg-name="LA W FM MEXICO" tvg-logo="",LA W FM MEXICO
-http://14033.live.streamtheworld.com/W_RADIO_SC
-#EXTINF:-1 tvg-name="RADIO TIEMPO" tvg-logo="",RADIO TIEMPO
-http://i50.letio.com/9146.aac?type=.flv?type=.flv
-#EXTINF:-1 tvg-name="RADIO TIEMPO" tvg-logo="",RADIO TIEMPO
-http://i50.letio.com/9100.aac?type=.flv?type=.flv
-#EXTINF:-1 tvg-name="RADIO TIEMPO CUCUTA" tvg-logo="",RADIO TIEMPO CUCUTA
-http://i90.letio.com/19146.mp3
-#EXTINF:-1 tvg-name="RADIO TIEMPO MEDELLIN" tvg-logo="",RADIO TIEMPO MEDELLIN
-http://i90.letio.com/19144.mp3
-#EXTINF:-1 tvg-name="RADIO TIEMPO NEIVA" tvg-logo="",RADIO TIEMPO NEIVA
-http://i90.letio.com/19140.mp3
-#EXTINF:-1 tvg-name="W RADIO" tvg-logo="",W RADIO
-http://19173.live.streamtheworld.com:80/WRADIOAAC_SC
-#EXTINF:-1 tvg-name="BESAME BOGOTA" tvg-logo="",BESAME BOGOTA
-http://14933.live.streamtheworld.com/BESAME_NACIONALAAC.aac?
 
 #EXTINF:-1 tvg-name="UIS AM STEREO" tvg-logo="",UIS AM STEREO
 http://emisoras.uis.edu.co:8000/mp3am
 #EXTINF:-1 tvg-name="UIS FM STEREO" tvg-logo="",UIS FM STEREO
-http://emisoras.uis.edu.co:8000/vivo.ogg
-#EXTINF:-1 tvg-name="SUPER K PUERTO RICO" tvg-logo="",SUPER K PUERTO RICO
-http://68.235.35.243:9043/stream/1/
-#EXTINF:-1 tvg-name="RADIO 1" tvg-logo="",RADIO 1
-https://21933.live.streamtheworld.com/RADIO_1_BOGAAC_SC
-#EXTINF:-1 tvg-name="LA VALLENATA" tvg-logo="",LA VALLENATA
-http://17973.live.streamtheworld.com/VALLENATA_PRISAAAC.aac?
+https://reshun.ru/colombia/uis-estereo/icecast.audio
+
 #EXTINF:-1 tvg-name="REINA DE COLOMBIA 92.6 FM" tvg-logo="",REINA DE COLOMBIA 92.6 FM
-http://192.99.4.210:3906/;
+https://radiolatina.info/8056/stream
 #EXTINF:-1 tvg-name="REINA DE COLOMBIA 870 AM" tvg-logo="",REINA DE COLOMBIA 870 AM
-http://192.99.4.210:3886/;
+https://radiolatina.info/8010/stream
 #EXTINF:-1 tvg-name="LATINA STEREO 100.9" tvg-logo="",LATINA STEREO 100.9
-http://198.27.68.65:8296/stream
+https://centova12.instainternet.com/proxy/cohetene?mp=/stream
 #EXTINF:-1 tvg-name="Yariguies Stereo 102.7 FM" tvg-logo="",Yariguies Stereo 102.7 FM
-http://72.29.89.35:9020/;
+https://estructuraweb.com.co:9339/stream
 #EXTINF:-1 tvg-name="JAVERIANA STEREO" tvg-logo="",JAVERIANA STEREO
-http://radio05.cehis.net:8001/stream
-#EXTINF:-1 tvg-name="CADENA MELODIA" tvg-logo="",CADENA MELODIA
-http://i50.letio.com/7000.aac
-#EXTINF:-1 tvg-name="COLMUNDO RADIO" tvg-logo="",COLMUNDO RADIO
-http://192.163.226.125:9992/;
-#EXTINF:-1 tvg-name="RADIO SUPER" tvg-logo="",RADIO SUPER
-http://www.cadenasuper.com:8002/;
-#EXTINF:-1 tvg-name="RADIO GUATAPURI" tvg-logo="",RADIO GUATAPURI
-http://198.27.88.38:7106/;
-#EXTINF:-1 tvg-name="BOMBA STEREO CALI" tvg-logo="",BOMBA STEREO CALI
-http://46.4.33.73:10600/;
-#EXTINF:-1 tvg-name="Policia Nacional 92.4 FM" tvg-logo="",Policia Nacional 92.4 FM
-https://radio.policia.gov.co:8080/bogota
-#EXTINF:-1 tvg-name="92.4 COLOMBIA STEREO" tvg-logo="",92.4 COLOMBIA STEREO
-http://108.163.229.102:8288/;
-#EXTINF:-1 tvg-name="Radio Noticias Estereo" tvg-logo="",Radio Noticias Estereo
-http://162.252.57.90:48010/;
-#EXTINF:-1 tvg-name="El Parche Radio" tvg-logo="",El Parche Radio
-http://hdserver.biz:9334/;
-#EXTINF:-1 tvg-name="La U Radio" tvg-logo="",La U Radio
-http://192.111.140.6:8224/stream/;
-#EXTINF:-1 tvg-name="Arriba Colombia" tvg-logo="",Arriba Colombia
-http://cdn.instream.audio:9137/stream
-#EXTINF:-1 tvg-name="92.4 ZONA CERO" tvg-logo="",92.4 ZONA CERO
-http://178.32.57.127:9324/;#EXTINF:-1 tvg-name=" Popular Stereo Barranquilla" tvg-logo="", Popular Stereo Barranquilla
-http://radio30.virtualtronics.com:8192/stream/1/
-#EXTINF:-1 tvg-name=" Popular Stereo Bucaramanga" tvg-logo="", Popular Stereo Bucaramanga
-http://radio30.virtualtronics.com:8192/;
-#EXTINF:-1 tvg-name=" RADIO OK FM" tvg-logo="", OK FM
-http://streaming.fmokey.cl:8000/FmOkCP.aac
-#EXTINF:-1 tvg-name=" RADIO FANTASTICA" tvg-logo="", RADIO FANTASTICA
-http://live1.rcnmundo.com/fantastica.mp3
-#EXTINF:-1 tvg-name=" 123 VALLENATO" tvg-logo="", 123 VALLENATO
-http://radiolatina.info:7087/;
-#EXTINF:-1 tvg-name=" Reggaeton FM" tvg-logo="", Reggaeton FM
-https://listen.openstream.co/3077/audio
-#EXTINF:-1 tvg-name=" LA VALLENATA" tvg-logo="", LA VALLENATA
-http://14073.live.streamtheworld.com/VALLENATA_PRISA.mp3
-#EXTINF:-1 tvg-name=" LA FM BUCARAMANGA" tvg-logo="", LA FM BUCARAMANGA
-http://live1.rcnmundo.com/lafmbucaramanga.mp3
-#EXTINF:-1 tvg-name=" RCN BUCARAMANGA" tvg-logo="", RCN BUCARAMANGA
-http://live2.rcnmundo.com/rcnlaradiobucaramanga.mp3
-#EXTINF:-1 tvg-name=" ANTENA 2" tvg-logo="", ANTENA 2
-http://live2.rcnmundo.com/antena2.mp3
-#EXTINF:-1 tvg-name=" LA FM BUCARAMANGA" tvg-logo="", LA FM BUCARAMANGA
-http://live4.rcnmundo.com/lafmbucaramanga.mp3
-#EXTINF:-1 tvg-name=" LA CARINOSA BUCARAMANGA" tvg-logo="", LA CARINOSA BUCARAMANGA
-http://live4.rcnmundo.com/lacarinosabucaramanga.mp3
-#EXTINF:-1 tvg-name=" RCN COLOMBIANISIMA" tvg-logo="", RCN COLOMBIANISIMA
-http://live3.rcnmundo.com/colombianisima.mp3
-#EXTINF:-1 tvg-name=" VALLENATO VENTIAO" tvg-logo="", VALLENATO VENTIAO
-http://live4.rcnmundo.com/vallenatoventiao.mp3
-#EXTINF:-1 tvg-name="Luis Mateus Radio" tvg-logo="",Luis Mateus Radio
-http://51.15.160.78:8036/;
-#EXTINF:-1 tvg-name="VIVA 88.1" tvg-logo="",VIVA 88.1
-http://laradiohd.com:9944/;
-#EXTINF:-1 tvg-name=" LATINA COM" tvg-logo="", LATINA COM
-http://95.154.254.157:13737/;
-#EXTINF:-1 tvg-name=" Barrancabermeja Virtual" tvg-logo="", Barrancabermeja Virtual
-http://stream1.305stream.com:8240/;
+https://radio06.cehis.net/proxy/javerian?mp=/stream
 
-#EXTINF:-1 tvg-name="sputniknews" tvg-logo="",sputniknews
-http://icecast-ruvr.cdnvideo.ru/rian.voicespa
-
-
-#EXTINF:-1 tvg-name="Musica sin Comerciales Ingles" tvg-logo="",Musica sin Comerciales Ingles
-http://167.114.116.223:1040/;
-#EXTINF:-1 tvg-name="Musica sin Comerciales Espanol" tvg-logo="",Musica sin Comerciales Espanol
-http://167.114.116.223:9823/;
-#EXTINF:-1 tvg-name="Musica sin Comerciales Electronica" tvg-logo="",Musica sin Comerciales Electronica
-http://46.165.233.193/;stream.mp3
-#EXTINF:-1 tvg-name="Musica sin Comerciales 80s" tvg-logo="",Musica sin Comerciales 80s
-http://162.144.38.39:9010/;stream.mp3
-#EXTINF:-1 tvg-name="Musica sin Comerciales Reggaeton" tvg-logo="",Musica sin Comerciales Reggaeton
-http://216.230.231.122:8000/MP3128/;stream.mp3
-#EXTINF:-1 tvg-name="Musica sin Comerciales Salsa" tvg-logo="",Musica sin Comerciales Salsa
-http://radiolatina.info:7218/;stream.mp3
-#EXTINF:-1 tvg-name="Musica sin Comerciales Hip Hop" tvg-logo="",Musica sin Comerciales Hip Hop
-http://66.85.88.174:2001/;stream.mp3
-#EXTINF:-1 tvg-name="Musica sin Comerciales Country" tvg-logo="",Musica sin Comerciales Country
-http://167.114.116.223:9823/;
-#EXTINF:-1 tvg-name="Musica sin Comerciales Jaz" tvg-logo="",Musica sin Comerciales Jaz
-http://185.33.22.15:11230/;
-#EXTINF:-1 tvg-name="Musica sin Comerciales Cristiana" tvg-logo="",Musica sin Comerciales Cristiana
-http://s10.voscast.com:7246/;stream.mp3
 #EXTINF:0 tvg-id="LA NUEVA STEREO 102.7 FM" group-title="Channels",LA NUEVA STEREO 102.7 FM
 https://emisoralanueva.radio12345.com/openfire.ajax.php?radio_id=2665758
 #EXTINF:0 tvg-id="LA NUEVA STEREO 102.7 FM" group-title="Channels",LA NUEVA STEREO 102.7 FM
