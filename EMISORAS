@@ -141,8 +141,6 @@ https://tunzilla.com/http://cast1.my-control-panel.com:7056/stream
 https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/live.m3u8
 
 
-#EXTINF:-1 tvg-name=" RCN San Gil" tvg-logo="", RCN San Gil
-https://cdn-web.tunein.com/assets/media/blank.mp3
 #EXTINF:-1 tvg-name=" CALIENTE 1330" tvg-logo="", CALIENTE 1330
 https://radiolatina.info/8084/stream
 #EXTINF:-1 tvg-name=" SANTA BARBARA STEREO" tvg-logo="", SANTA BARBARA STEREO
@@ -167,6 +165,8 @@ https://stream-152.zeno.fm/3v767bfpw38uv?
 https://play10.tikast.com/proxy/mogotes?
 #EXTINF:-1 tvg-name=" Villanueva Stereo" tvg-logo="", Villanueva Stereo
 https://play10.tikast.com/proxy/villanueva?
+#EXTINF:-1 tvg-name=" lapegajosa" tvg-logo="", lapegajosa
+https://zapatoca.net:8088/lapegajosa
 
 
 
@@ -174,9 +174,6 @@ https://play10.tikast.com/proxy/villanueva?
 
 #EXTINF:-1 tvg-name="RUMBA IPIALES" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA IPIALES
 https://radiohd.streaminghd.co:7049/stream?1690308174
-#EXTINF:-1 tvg-name="RADIO UNO BARBOSA" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA IPIALES
-https://radiohd.streaminghd.co:7049/stream?1690308174
-
 
 
 #EXTINF:-1 tvg-name="LOS 40 PRINCIPALES Espana" tvg-logo="",LOS 40 PRINCIPALES Espana
@@ -184,14 +181,11 @@ http://20103.live.streamtheworld.com/LOS40_SC
 
 
 #EXTINF:-1 tvg-name="UIS AM STEREO" tvg-logo="",UIS AM STEREO
-http://emisoras.uis.edu.co:8000/mp3am
-#EXTINF:-1 tvg-name="UIS FM STEREO" tvg-logo="",UIS FM STEREO
-https://reshun.ru/colombia/uis-estereo/icecast.audio
+http://emisoras.uis.edu.co:8000/mp3
 
 #EXTINF:-1 tvg-name="REINA DE COLOMBIA 92.6 FM" tvg-logo="",REINA DE COLOMBIA 92.6 FM
 https://radiolatina.info/8056/stream
-#EXTINF:-1 tvg-name="REINA DE COLOMBIA 870 AM" tvg-logo="",REINA DE COLOMBIA 870 AM
-https://radiolatina.info/8010/stream
+
 #EXTINF:-1 tvg-name="LATINA STEREO 100.9" tvg-logo="",LATINA STEREO 100.9
 https://centova12.instainternet.com/proxy/cohetene?mp=/stream
 #EXTINF:-1 tvg-name="Yariguies Stereo 102.7 FM" tvg-logo="",Yariguies Stereo 102.7 FM
