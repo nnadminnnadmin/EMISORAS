@@ -9,9 +9,9 @@ https://26483.live.streamtheworld.com/TR_BUCARAMANGAAAC.aac?
 #EXTINF:-1 tvg-name="OLIMPICA STEREO ARMENIA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO ARMENIA
 https://26683.live.streamtheworld.com/OLP_ARMENIAAAC.aac?
 #EXTINF:-1 tvg-name="OLIMPICA STEREO BARRANQUILLA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO BARRANQUILLA
-https://26683.live.streamtheworld.com/OLP_BARRANQUILLA_SC
+https://27353.live.streamtheworld.com/OLP_BARRANQUILLAAAC.aac?
 #EXTINF:-1 tvg-name="OLIMPICA STEREO BOGOTA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO BOGOTA
-https://22823.live.streamtheworld.com/OLP_BOGOTA_SC
+https://27343.live.streamtheworld.com/OLP_BOGOTAAAC.aac?
 #EXTINF:-1 tvg-name="OLIMPICA STEREO CALI" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO CALI
 https://24383.live.streamtheworld.com/OLP_CALIAAC.aac?
 #EXTINF:-1 tvg-name="OLIMPICA STEREO CARTAGENA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO CARTAGENA
@@ -31,7 +31,7 @@ https://27033.live.streamtheworld.com/OLP_NEIVAAAC.aac?
 #EXTINF:-1 tvg-name="OLIMPICA STEREO PEREIRA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO PEREIRA
 https://26593.live.streamtheworld.com/OLP_PEREIRAAAC.aac?
 #EXTINF:-1 tvg-name="OLIMPICA STEREO SANTA MARTA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO SANTA MARTA
-https://24493.live.streamtheworld.com/OLP_SANTA_MARTAAAC.aac?
+https://14553.live.streamtheworld.com/OLP_SANTA_MARTAAAC.aac?
 #EXTINF:-1 tvg-name="OLIMPICA STEREO SINCELEJO" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO SINCELEJO
 https://26253.live.streamtheworld.com/OLP_SINCELEJOAAC.aac?
 #EXTINF:-1 tvg-name="OLIMPICA STEREO VALLEDUPAR" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO VALLEDUPAR
@@ -76,7 +76,7 @@ https://27413.live.streamtheworld.com/TR_NEIVAAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA PASTO" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA PASTO
 https://26373.live.streamtheworld.com/TR_PASTOAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA PEREIRA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA PEREIRA
-https://24233.live.streamtheworld.com/TR_PEREIRAAAC.aac?
+https://22833.live.streamtheworld.com/TR_PEREIRAAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA POPAYAN" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA POPAYAN
 https://26593.live.streamtheworld.com/TR_POPAYANAAC.aac?
 #EXTINF:-1 tvg-name="TROPICANA VILLAVICENCIO" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA VILLAVICENCIO
@@ -132,9 +132,9 @@ https://streams.exeamedia.com/tottorelay
 
 
 #EXTINF:-1 tvg-name="LA KALLE 96.9 BOGOTA POPULAR" tvg-logo="", LA KALLE 96.9 BOGOTA POPULAR
-https://22823.live.streamtheworld.com/LA_KALLE_ADP.aac?
+https://27443.live.streamtheworld.com/LA_KALLE_ADP.aac?
 #EXTINF:-1 tvg-name="CANDELA STEREO" tvg-logo="",CANDELA STEREO
-https://22823.live.streamtheworld.com/CANDELAESTEREO_SC
+https://27443.live.streamtheworld.com/CANDELAESTEREO_SC
 #EXTINF:-1 tvg-name="Sonora Stereo Cimitarra" tvg-logo="", Sonora Stereo Cimitarra
 https://tunzilla.com/http://cast1.my-control-panel.com:7056/stream
 #EXTINF:-1 tvg-name=" LA FM" tvg-logo="", LA FM
