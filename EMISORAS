@@ -150,29 +150,22 @@ https://play10.tikast.com/proxy/miradorstereo?
 https://play10.tikast.com/proxy/guadalupestereo?
 #EXTINF:-1 tvg-name=" Santuario Estereo" tvg-logo="", Santuario Estereo
 https://radiohd.streaminghd.co:7360/stream
-#EXTINF:-1 tvg-name=" SEÑORA DEL SOCORRO" tvg-logo="", SEÑORA DEL SOCORRO
-https://zapatoca.net:8088/senoradelsocorro
+
 #EXTINF:-1 tvg-name=" JOSE ANTONIO GALAN" tvg-logo="", JOSE ANTONIO GALAN
 https://radiolatina.info/9906/;
-#EXTINF:-1 tvg-name=" RADIO LENGUERKE" tvg-logo="", RADIO LENGUERKE
-https://zapatoca.net:8088/radiolenguerke
-#EXTINF:-1 tvg-name=" RADIO ZAPATOCA" tvg-logo="", RADIO ZAPATOCA
-https://zapatoca.net:8088/radiozapatoca
+
 #EXTINF:-1 tvg-name=" LA CUPULA 98.7" tvg-logo="", LA CUPULA 98.7
 https://stream-152.zeno.fm/3v767bfpw38uv?
-#EXTINF:-1 tvg-name=" Mogotes Stereo" tvg-logo="", Mogotes Stereo
-https://play10.tikast.com/proxy/mogotes?
+
 #EXTINF:-1 tvg-name=" Villanueva Stereo" tvg-logo="", Villanueva Stereo
 https://play10.tikast.com/proxy/villanueva?
-#EXTINF:-1 tvg-name=" lapegajosa" tvg-logo="", lapegajosa
-https://zapatoca.net:8088/lapegajosa
 
 
 
 
 
-#EXTINF:-1 tvg-name="RUMBA IPIALES" tvg-logo="https://pbs.twimg.com/profile_images/699208622/RUMBA-PNG.png",RUMBA IPIALES
-https://radiohd.streaminghd.co:7049/stream?1690308174
+
+
 
 
 #EXTINF:-1 tvg-name="LOS 40 PRINCIPALES Espana" tvg-logo="",LOS 40 PRINCIPALES Espana
@@ -200,8 +193,198 @@ https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_32911_stream_29753
 https://geministresmil.radiostream321.com/openfire.ajax.php?radio_id=2937133
 #EXTINF:0 tvg-id="Geminis tres mil" group-title="Channels",Geminis tres mil
 https://freeuk26.listen2myradio.com/live.mp3?typeportmount=s2_24718_stream_617718152
+#EXTM3U
+ 
+#EXTINF:0 tvg-id="LA NUEVA STEREO 102.7 FM" group-title="Channels",LA NUEVA STEREO 102.7 FM
+https://sonic.paulatina.co/8056/stream
+#EXTINF:-1 tvg-name="OLIMPICA STEREO BUCARAMANGA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO BUCARAMANGA
+https://27443.live.streamtheworld.com/OLP_BUCARAMANGAAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA BUCARAMANGA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA BUCARAMANGA
+https://26483.live.streamtheworld.com/TR_BUCARAMANGAAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO ARMENIA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO ARMENIA
+https://27593.live.streamtheworld.com/OLP_ARMENIAAAC.aac?dist=oro_web
+#EXTINF:-1 tvg-name="OLIMPICA STEREO BARRANQUILLA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO BARRANQUILLA
+https://27353.live.streamtheworld.com/OLP_BARRANQUILLAAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO BOGOTA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO BOGOTA
+https://27343.live.streamtheworld.com/OLP_BOGOTAAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO CALI" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO CALI
+https://24383.live.streamtheworld.com/OLP_CALIAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO CARTAGENA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO CARTAGENA
+https://24223.live.streamtheworld.com/OLP_CARTAGENA_SC
+#EXTINF:-1 tvg-name="OLIMPICA STEREO CUCUTA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO CUCUTA
+https://27373.live.streamtheworld.com/OLP_CUCUTA_SC
+#EXTINF:-1 tvg-name="OLIMPICA STEREO IBAGUE" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO IBAGUE
+https://26513.live.streamtheworld.com/OLP_IBAGUEAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO MANIZALES" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO MANIZALES
+https://24363.live.streamtheworld.com/OLP_MANIZALESAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO MEDELLIN" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO MEDELLIN
+https://24503.live.streamtheworld.com/OLP_MEDELLINAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO MONTERIA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO MONTERIA
+https://27343.live.streamtheworld.com/OLP_MONTERIAAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO NEIVA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO NEIVA
+https://27033.live.streamtheworld.com/OLP_NEIVAAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO PEREIRA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO PEREIRA
+https://26593.live.streamtheworld.com/OLP_PEREIRAAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO SANTA MARTA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO SANTA MARTA
+https://14553.live.streamtheworld.com/OLP_SANTA_MARTAAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO SINCELEJO" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO SINCELEJO
+https://26253.live.streamtheworld.com/OLP_SINCELEJOAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO VALLEDUPAR" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO VALLEDUPAR
+https://24373.live.streamtheworld.com/OLP_VALLEDUPARAAC.aac?
+#EXTINF:-1 tvg-name="OLIMPICA STEREO VILLAVICENCIO" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO VILLAVICENCIO
+https://26513.live.streamtheworld.com/OLP_VILLAVICENCIOAAC_SC
+#EXTINF:-1 tvg-name="OLIMPICA STEREO HONDA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO HONDA
+https://server2.ejeserver.com:8240/stream
+#EXTINF:-1 tvg-name="OLIMPICA STEREO LA DORADA" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO LA DORADA
+https://server2.ejeserver.com:8244/stream
+#EXTINF:-1 tvg-name="OLIMPICA STEREO ESPINAL" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO ESPINAL
+https://server2.ejeserver.com:8844/stream
+#EXTINF:-1 tvg-name="OLIMPICA STEREO GIRARDOT" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",OLIMPICA STEREO GIRARDOT
+https://server2.ejeserver.com:8248/stream
+#EXTINF:-1 tvg-name="Olimpica Stereo 99.0 Zaragoza" tvg-logo="https://www.raddios.com/public/radios/grande/4650_grande.jpg?2016-06-21-21:30:19",Olimpica Stereo 99.0 Zaragoza
+https://27353.live.streamtheworld.com/OLP_CALIAAC.aac?
 
-#EXTINF:0 tvg-id="ramonforero" group-title="Channels",ramonforero
-https://ramonforero.radiostream321.com/openfire.ajax.php?radio_id=3082232
-#EXTINF:0 tvg-id="ramonforero" group-title="Channels",ramonforeroc
-https://freeuk30.listen2myradio.com/live.mp3?typeportmount=s2_32099_stream_289018946
+#EXTINF:-1 tvg-name="TROPICANA ARMENIA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA ARMENIA
+https://24233.live.streamtheworld.com/TR_ARMENIA_SC
+#EXTINF:-1 tvg-name="TROPICANA BARRANQUILLA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA BARRANQUILLA
+https://27283.live.streamtheworld.com/TROPICANA_SC
+#EXTINF:-1 tvg-name="TROPICANA BOGOTA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA BOGOTA
+https://26573.live.streamtheworld.com/TROPICANAAAC_SC
+#EXTINF:-1 tvg-name="TROPICANA TUNJA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA TUNJA
+https://24363.live.streamtheworld.com/TR_TUNJAAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA CALI" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CALI
+https://26513.live.streamtheworld.com/TR_CALIAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA CARTAGENA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CARTAGENA
+https://24363.live.streamtheworld.com/TR_CARTAGENA_SC
+#EXTINF:-1 tvg-name="TROPICANA CUCUTA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA CUCUTA
+https://26563.live.streamtheworld.com/TR_CUCUTAAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA IBAGUE" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA IBAGUE
+https://27383.live.streamtheworld.com/TR_IBAGUEAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA MANIZALES" tvg-logo="",TROPICANA MANIZALES
+https://24363.live.streamtheworld.com/TR_MANIZALESAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA MEDELLIN" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA MEDELLIN
+https://26493.live.streamtheworld.com/TR_MEDELLINAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA MONTERIA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA MONTERIA
+https://26523.live.streamtheworld.com/TROPICANA_SC
+#EXTINF:-1 tvg-name="TROPICANA NEIVA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA NEIVA
+https://27413.live.streamtheworld.com/TR_NEIVAAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA PASTO" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA PASTO
+https://26563.live.streamtheworld.com/TR_PASTOAAC.aac
+#EXTINF:-1 tvg-name="TROPICANA PEREIRA" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA PEREIRA
+https://22833.live.streamtheworld.com/TR_PEREIRAAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA POPAYAN" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA POPAYAN
+https://26593.live.streamtheworld.com/TR_POPAYANAAC.aac?
+#EXTINF:-1 tvg-name="TROPICANA VILLAVICENCIO" tvg-logo="http://envivo.tropicanafm.com/build/assets/tropicanacolombia/img/300x300.png",TROPICANA VILLAVICENCIO
+https://26573.live.streamtheworld.com/TR_VILLAVICENCIOAAC.aac?
+
+#EXTINF:-1 tvg-name="LA REINA BARRANQUILLA" tvg-logo="",LA REINA BARRANQUILLA
+https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_BARRANQUILLA_SC
+#EXTINF:-1 tvg-name="LA REINA CARTAGENA" tvg-logo="",LA REINA CARTAGENA
+https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENA_SC
+
+
+#EXTINF:-1 tvg-name=" CARACOL RADIO" tvg-logo="", CARACOL RADIO
+https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO_SC
+#EXTINF:-1 tvg-name=" RCN RADIO" tvg-logo="", RCN RADIO
+https://mdstrm.com/audio/627c1c39637d89088290f64d/live.m3u8
+#EXTINF:-1 tvg-name="LOS 40 PRINCIPALES BOGOTA" tvg-logo="",LOS 40 PRINCIPALES BOGOTA
+https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC_SC
+#EXTINF:-1 tvg-name=" LA W" tvg-logo="", LA W
+https://playerservices.streamtheworld.com/api/livestream-redirect/WRADIO_SC
+#EXTINF:-1 tvg-name=" BLU RADIO" tvg-logo="", BLU RADIO
+https://26563.live.streamtheworld.com/BLURADIO_ADP_SC?dist=%252520blu_web
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="La Mega 90.9" tvg-logo="", La Mega 90.9
+https://mdstrm.com/audio/632c9ae6660fef03fe3855fe/live.m3u8
+#EXTINF:0 tvg-id="RADIO ACTIVA" group-title="Channels",RADIO ACTIVA
+https://26673.live.streamtheworld.com/RADIO_ACTIVA_SC
+#EXTINF:-1 tvg-name="OXIGENO BOGOTA" tvg-logo="http://www.oxigeno.fm/wp-content/themes/oxigeno-outspoken/images/landing/logo.png",OXIGENO BOGOTA
+https://27343.live.streamtheworld.com/LOS40_COLOMBIAAAC.aac
+#EXTINF:-1 tvg-name="Best fm" tvg-logo="",Best fm
+https://d2bvq5yazcohix.cloudfront.net/bestfm.m3u8
+#EXTINF:-1 tvg-name="MAXIMA Espana" tvg-logo="",MAXIMA Espana
+https://radios.sonidoshd.com:7105/stream/1/
+#EXTINF:-1 tvg-name="MAXIMA MEXICO" tvg-logo="",MAXIMA MEXICO
+http://www.tuasesorweb.com:8036/;
+#EXTINF:-1 tvg-name=" La X ONLINE" tvg-logo="", La X ONLINE
+http://65.60.45.74:8088/;
+#EXTINF:-1 tvg-name=" La X mas musica" tvg-logo="", La X mas musica
+https://s5.radio.co/s980fc5249/listen
+#EXTINF:-1 tvg-name=" Radio Caprice Trance" tvg-logo="", Radio Caprice Trance
+http://79.120.77.11:9021/
+#EXTINF:-1 tvg-name=" TOTO RADIO" tvg-logo="", TOTO RADIO
+https://streams.exeamedia.com/tottorelay
+
+
+
+#EXTINF:-1 tvg-name="LA KALLE 96.9 BOGOTA POPULAR" tvg-logo="", LA KALLE 96.9 BOGOTA POPULAR
+https://27443.live.streamtheworld.com/LA_KALLE_ADP.aac?
+#EXTINF:-1 tvg-name="CANDELA STEREO" tvg-logo="",CANDELA STEREO
+https://27443.live.streamtheworld.com/CANDELAESTEREO_SC
+
+#EXTINF:-1 tvg-name=" LA FM" tvg-logo="", LA FM
+https://mdstrm.com/audio/632c9b23d1dcd7027f32f7fe/live.m3u8
+
+
+#EXTINF:-1 tvg-name=" CALIENTE 1330" tvg-logo="", CALIENTE 1330
+https://radiolatina.info/8084/stream
+#EXTINF:-1 tvg-name=" SANTA BARBARA STEREO" tvg-logo="", SANTA BARBARA STEREO
+https://sonic.paulatina.co/9002/stream;
+#EXTINF:-1 tvg-name=" Mirador Estereo Barichara" tvg-logo="", Mirador Estereo Barichara
+https://play10.tikast.com/proxy/miradorstereo?
+#EXTINF:-1 tvg-name=" Guadalupe Estereo" tvg-logo="", Guadalupe Estereo
+https://play10.tikast.com/proxy/guadalupestereo?
+#EXTINF:-1 tvg-name=" Santuario Estereo" tvg-logo="", Santuario Estereo
+https://radiohd.streaminghd.co:7360/stream
+
+#EXTINF:-1 tvg-name=" JOSE ANTONIO GALAN" tvg-logo="", JOSE ANTONIO GALAN
+https://radiolatina.info/9906/;
+
+#EXTINF:-1 tvg-name=" LA CUPULA 98.7" tvg-logo="", LA CUPULA 98.7
+https://stream-152.zeno.fm/3v767bfpw38uv?
+
+#EXTINF:-1 tvg-name=" Villanueva Stereo" tvg-logo="", Villanueva Stereo
+https://play10.tikast.com/proxy/villanueva?
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="LOS 40 PRINCIPALES Espana" tvg-logo="",LOS 40 PRINCIPALES Espana
+http://20103.live.streamtheworld.com/LOS40_SC
+
+
+#EXTINF:-1 tvg-name="UIS AM STEREO" tvg-logo="",UIS AM STEREO
+http://emisoras.uis.edu.co:8000/mp3
+
+#EXTINF:-1 tvg-name="REINA DE COLOMBIA 92.6 FM" tvg-logo="",REINA DE COLOMBIA 92.6 FM
+https://radiolatina.info/8056/stream
+
+#EXTINF:-1 tvg-name="LATINA STEREO 100.9" tvg-logo="",LATINA STEREO 100.9
+https://centova12.instainternet.com/proxy/cohetene?mp=/stream
+#EXTINF:-1 tvg-name="Yariguies Stereo 102.7 FM" tvg-logo="",Yariguies Stereo 102.7 FM
+https://estructuraweb.com.co:9339/stream
+#EXTINF:-1 tvg-name="JAVERIANA STEREO" tvg-logo="",JAVERIANA STEREO
+https://radio06.cehis.net/proxy/javerian?mp=/stream
+
+#EXTINF:0 tvg-id="LA NUEVA STEREO 102.7 FM" group-title="Channels",LA NUEVA STEREO 102.7 FM
+https://emisoralanueva.radio12345.com/openfire.ajax.php?radio_id=2665758
+#EXTINF:0 tvg-id="LA NUEVA STEREO 102.7 FM" group-title="Channels",LA NUEVA STEREO 102.7 FM
+https://freeuk23.listen2myradio.com/live.mp3?typeportmount=s2_32911_stream_297533214/openfire.ajax.php?radio_id=2665758
+#EXTINF:0 tvg-id="Geminis tres mil" group-title="Channels",Geminis tres mil
+https://geministresmil.radiostream321.com/openfire.ajax.php?radio_id=2937133
+#EXTINF:0 tvg-id="Geminis tres mil" group-title="Channels",Geminis tres mil
+https://freeuk26.listen2myradio.com/live.mp3?typeportmount=s2_24718_stream_617718152
