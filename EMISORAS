@@ -121,7 +121,7 @@ https://26593.live.streamtheworld.com/TR_POPAYANAAC.aac?
 https://26573.live.streamtheworld.com/TR_VILLAVICENCIOAAC.aac?
 #EXTINF:0,LA REINA BARRANQUILLA
 #EXTVLCOPT:network-caching=1000
-https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_BARRANQUILLA_SC
+https://15263.live.streamtheworld.com/RNA_BARRANQUILLA_SC
 #EXTINF:0,LA REINA CARTAGENA
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENA_SC
@@ -203,6 +203,9 @@ https://play10.tikast.com/proxy/guadalupestereo?
 #EXTINF:0, Santuario Estereo
 #EXTVLCOPT:network-caching=1000
 https://radiohd.streaminghd.co:7360/stream
+#EXTINF:0, SEÑORA DEL SOCORRO
+#EXTVLCOPT:network-caching=1000
+https://zapatoca.net:8088/senoradelsocorro
 #EXTINF:0, LA PEGAJOSA CONFINES
 #EXTVLCOPT:network-caching=1000
 https://zapatoca.net:8088/lapegajosa
