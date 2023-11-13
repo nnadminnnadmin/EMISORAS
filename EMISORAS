@@ -128,9 +128,15 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENA_
 #EXTINF:0,Yariguies Stereo 102.7 FM
 #EXTVLCOPT:network-caching=1000
 https://estructuraweb.com.co:9339/stream
+#EXTINF:0,RADIO POLICIA CIVICA
+#EXTVLCOPT:network-caching=1000
+https://stream-153.zeno.fm/45umcv71wwzuv?zs=2irBjWCxSCykTyoRz3mpHw
 #EXTINF:0, CARACOL RADIO
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO_SC
+#EXTINF:0, CARACOL RADIO 880 AM
+#EXTVLCOPT:network-caching=1000
+https://27343.live.streamtheworld.com/CR_BUCARAMAAAC.aac
 #EXTINF:0, RCN RADIO
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/audio/627c1c39637d89088290f64d/live.m3u8
@@ -203,24 +209,33 @@ https://play10.tikast.com/proxy/guadalupestereo?
 #EXTINF:0, Santuario Estereo
 #EXTVLCOPT:network-caching=1000
 https://radiohd.streaminghd.co:7360/stream
-#EXTINF:0, Santuario Estereo
-#EXTVLCOPT:network-caching=1000
-https://play10.tikast.com/proxy/miradorstereo?mp=/stream
 #EXTINF:0, SEÑORA DEL SOCORRO
 #EXTVLCOPT:network-caching=1000
 https://zapatoca.net:8088/senoradelsocorro
 #EXTINF:0, LA PEGAJOSA CONFINES
 #EXTVLCOPT:network-caching=1000
 https://zapatoca.net:10041/live
-
+#EXTINF:0, LATINA STEREO 105.7
+#EXTVLCOPT:network-caching=1000
+https://radiohd.streaminghd.co:7445/stream
+#EXTINF:0, LA ESTACION VALLENATA FM
+#EXTVLCOPT:network-caching=1000
+https://stream-160.zeno.fm/ubk0x8k2znhvv?zs=gVhSUngVQ4q9H2nhj3W4vw
+#EXTINF:0, PIEDECUESTANA 88.2
+#EXTVLCOPT:network-caching=1000
+https://stream-150.zeno.fm/4n63drcnx38uv?zs=oEhdn28NQKeQUgCcE9B6PQ
+#EXTINF:0, PSAN JUAN DE GIRON 88.2
+#EXTVLCOPT:network-caching=1000
+https://stream-153.zeno.fm/0uw0q73wgxhvv?zs=wtqrwa05SvOqhTKCbQmc5Q
 #EXTINF:0, MOGOTES STEREO
 #EXTVLCOPT:network-caching=1000
 https://play10.tikast.com/proxy/mogotes?mp=/stream%E2%80%A8
-
+#EXTINF:0, BETULIANA STEREO
+#EXTVLCOPT:network-caching=1000
+https://stream-160.zeno.fm/1y13fb73mfhvv?zs=YB3sHW3CQCqqBcCOtRgbCQ
 #EXTINF:0, RENACER STEREO
 #EXTVLCOPT:network-caching=1000
 https://stream-151.zeno.fm/r0rgsbbw2bruv?zs=XQdTddpPQ5q5M3QAPYNtFg
-
 #EXTINF:0, Radio Lenguerke
 #EXTVLCOPT:network-caching=1000
 https://zapatoca.net:8088/radiolenguerke
