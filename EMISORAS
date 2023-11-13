@@ -203,12 +203,27 @@ https://play10.tikast.com/proxy/guadalupestereo?
 #EXTINF:0, Santuario Estereo
 #EXTVLCOPT:network-caching=1000
 https://radiohd.streaminghd.co:7360/stream
+#EXTINF:0, Santuario Estereo
+#EXTVLCOPT:network-caching=1000
+https://play10.tikast.com/proxy/miradorstereo?mp=/stream
 #EXTINF:0, SEÑORA DEL SOCORRO
 #EXTVLCOPT:network-caching=1000
 https://zapatoca.net:8088/senoradelsocorro
 #EXTINF:0, LA PEGAJOSA CONFINES
 #EXTVLCOPT:network-caching=1000
-https://zapatoca.net:8088/lapegajosa
+https://zapatoca.net:10041/live
+
+#EXTINF:0, MOGOTES STEREO
+#EXTVLCOPT:network-caching=1000
+https://play10.tikast.com/proxy/mogotes?mp=/stream%E2%80%A8
+
+#EXTINF:0, RENACER STEREO
+#EXTVLCOPT:network-caching=1000
+https://stream-151.zeno.fm/r0rgsbbw2bruv?zs=XQdTddpPQ5q5M3QAPYNtFg
+
+#EXTINF:0, Radio Lenguerke
+#EXTVLCOPT:network-caching=1000
+https://zapatoca.net:8088/radiolenguerke
 #EXTINF:0,LA NUEVA STEREO 102.7 FM
 #EXTVLCOPT:network-caching=1000
 https://emisoralanueva.radio12345.com/openfire.ajax.php?radio_id=2665758
