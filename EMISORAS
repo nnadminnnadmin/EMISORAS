@@ -205,7 +205,7 @@ https://sonic.paulatina.co/9002/stream;
 https://play10.tikast.com/proxy/miradorstereo?mp=/stream
 #EXTINF:0, LA PEGAJOSA CONFINES
 #EXTVLCOPT:network-caching=1000
-https://zapatoca.net:10041/live
+https://zapatoca.net:8088/lapegajosa
 #EXTINF:0, LATINA STEREO 105.7
 #EXTVLCOPT:network-caching=1000
 https://radiohd.streaminghd.co:7445/stream
