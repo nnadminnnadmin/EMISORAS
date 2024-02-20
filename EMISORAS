@@ -193,7 +193,7 @@ https://radiolatina.info/9906/;
 https://stream-152.zeno.fm/3v767bfpw38uv?
 #EXTINF:0, Villanueva Stereo
 #EXTVLCOPT:network-caching=1000
-https://play10.tikast.com/proxy/villanueva?
+https://play10.tikast.com/proxy/villanueva?mp=/stream
 #EXTINF:0, CALIENTE 1330
 #EXTVLCOPT:network-caching=1000
 https://radiolatina.info/8084/stream
@@ -202,16 +202,7 @@ https://radiolatina.info/8084/stream
 https://sonic.paulatina.co/9002/stream;
 #EXTINF:0, Mirador Estereo Barichara
 #EXTVLCOPT:network-caching=1000
-https://play10.tikast.com/proxy/miradorstereo?
-#EXTINF:0, Guadalupe Estereo
-#EXTVLCOPT:network-caching=1000
-https://play10.tikast.com/proxy/guadalupestereo?
-#EXTINF:0, Santuario Estereo
-#EXTVLCOPT:network-caching=1000
-https://radiohd.streaminghd.co:7360/stream
-#EXTINF:0, SEÑORA DEL SOCORRO
-#EXTVLCOPT:network-caching=1000
-https://zapatoca.net:8088/senoradelsocorro
+https://play10.tikast.com/proxy/miradorstereo?mp=/stream
 #EXTINF:0, LA PEGAJOSA CONFINES
 #EXTVLCOPT:network-caching=1000
 https://zapatoca.net:10041/live
@@ -224,7 +215,7 @@ https://stream-160.zeno.fm/ubk0x8k2znhvv?zs=gVhSUngVQ4q9H2nhj3W4vw
 #EXTINF:0, PIEDECUESTANA 88.2
 #EXTVLCOPT:network-caching=1000
 https://stream-150.zeno.fm/4n63drcnx38uv?zs=oEhdn28NQKeQUgCcE9B6PQ
-#EXTINF:0, PSAN JUAN DE GIRON 88.2
+#EXTINF:0, SAN JUAN DE GIRON 88.2
 #EXTVLCOPT:network-caching=1000
 https://stream-153.zeno.fm/0uw0q73wgxhvv?zs=wtqrwa05SvOqhTKCbQmc5Q
 #EXTINF:0, MOGOTES STEREO
@@ -236,9 +227,9 @@ https://stream-160.zeno.fm/1y13fb73mfhvv?zs=YB3sHW3CQCqqBcCOtRgbCQ
 #EXTINF:0, RENACER STEREO
 #EXTVLCOPT:network-caching=1000
 https://stream-151.zeno.fm/r0rgsbbw2bruv?zs=XQdTddpPQ5q5M3QAPYNtFg
-#EXTINF:0, Radio Lenguerke
+#EXTINF:0, Radio Melodía
 #EXTVLCOPT:network-caching=1000
-https://zapatoca.net:8088/radiolenguerke
+https://radiohd.streaminghd.co:7832/stream
 #EXTINF:0,LA NUEVA STEREO 102.7 FM
 #EXTVLCOPT:network-caching=1000
 https://emisoralanueva.radio12345.com/openfire.ajax.php?radio_id=2665758
