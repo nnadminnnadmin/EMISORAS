@@ -136,7 +136,7 @@ https://stream-153.zeno.fm/45umcv71wwzuv?zs=2irBjWCxSCykTyoRz3mpHw
 https://playerservices.streamtheworld.com/api/livestream-redirect/CARACOL_RADIO_SC
 #EXTINF:0, CARACOL RADIO 880 AM
 #EXTVLCOPT:network-caching=1000
-https://27343.live.streamtheworld.com/CR_BUCARAMAAAC.aac
+https://24253.live.streamtheworld.com/CARACOL_RADIOAAC_SC
 #EXTINF:0, RCN RADIO
 #EXTVLCOPT:network-caching=1000
 https://mdstrm.com/audio/627c1c39637d89088290f64d/live.m3u8
@@ -158,9 +158,9 @@ https://24283.live.streamtheworld.com/RADIO_ACTIVA_SC
 #EXTINF:0,LOS 40 PRINCIPALES BOGOTA
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_COLOMBIAAAC_SC
-#EXTINF:0,OXIGENO BOGOTA
+#EXTINF:0,VIBRA BOGOTA
 #EXTVLCOPT:network-caching=1000
-https://27343.live.streamtheworld.com/LOS40_COLOMBIAAAC.aac
+https://26513.live.streamtheworld.com/VIBRA_SC
 #EXTINF:0,Best fm
 #EXTVLCOPT:network-caching=1000
 https://d2bvq5yazcohix.cloudfront.net/bestfm.m3u8
