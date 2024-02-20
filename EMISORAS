@@ -4,16 +4,16 @@
 https://sonic.paulatina.co/8056/stream
 #EXTINF:0,OLIMPICA STEREO BUCARAMANGA
 #EXTVLCOPT:network-caching=1000
-https://27443.live.streamtheworld.com/OLP_BUCARAMANGAAAC.aac?
+https://22823.live.streamtheworld.com/OLP_BUCARAMANGA_SC
 #EXTINF:0,TROPICANA BUCARAMANGA
 #EXTVLCOPT:network-caching=1000
-https://27443.live.streamtheworld.com/TR_BUCARAMANGA_SC
+https://27583.live.streamtheworld.com/TR_BUCARAMANGA_SC
 #EXTINF:0,OLIMPICA STEREO ARMENIA
 #EXTVLCOPT:network-caching=1000
-https://27593.live.streamtheworld.com/OLP_ARMENIAAAC.aac?dist=oro_web
+https://22823.live.streamtheworld.com/OLP_ARMENIAAAC_SC?dist=onlineradiobox
 #EXTINF:0,OLIMPICA STEREO BARRANQUILLA
 #EXTVLCOPT:network-caching=1000
-https://27353.live.streamtheworld.com/OLP_BARRANQUILLAAAC.aac?
+https://26663.live.streamtheworld.com/OLP_BARRANQUILLA_SC
 #EXTINF:0,OLIMPICA STEREO BOGOTA
 #EXTVLCOPT:network-caching=1000
 https://27343.live.streamtheworld.com/OLP_BOGOTAAAC.aac?
@@ -22,13 +22,13 @@ https://27343.live.streamtheworld.com/OLP_BOGOTAAAC.aac?
 https://24383.live.streamtheworld.com/OLP_CALIAAC.aac?
 #EXTINF:0,OLIMPICA STEREO CARTAGENA
 #EXTVLCOPT:network-caching=1000
-https://24223.live.streamtheworld.com/OLP_CARTAGENA_SC
+https://24483.live.streamtheworld.com/OLP_CARTAGENA_SC
 #EXTINF:0,OLIMPICA STEREO CUCUTA
 #EXTVLCOPT:network-caching=1000
-https://27373.live.streamtheworld.com/OLP_CUCUTA_SC
+https://26503.live.streamtheworld.com/OLP_CUCUTA_SC
 #EXTINF:0,OLIMPICA STEREO IBAGUE
 #EXTVLCOPT:network-caching=1000
-https://27033.live.streamtheworld.com/OLP_IBAGUEAAC.aac?
+https://26503.live.streamtheworld.com/OLP_IBAGUE_SC
 #EXTINF:0,OLIMPICA STEREO MANIZALES
 #EXTVLCOPT:network-caching=1000
 https://24363.live.streamtheworld.com/OLP_MANIZALESAAC.aac?
@@ -37,10 +37,10 @@ https://24363.live.streamtheworld.com/OLP_MANIZALESAAC.aac?
 https://24503.live.streamtheworld.com/OLP_MEDELLINAAC.aac?
 #EXTINF:0,OLIMPICA STEREO MONTERIA
 #EXTVLCOPT:network-caching=1000
-https://27343.live.streamtheworld.com/OLP_MONTERIAAAC.aac?
+https://24483.live.streamtheworld.com/OLP_MONTERIA_SC
 #EXTINF:0,OLIMPICA STEREO NEIVA
 #EXTVLCOPT:network-caching=1000
-https://27033.live.streamtheworld.com/OLP_NEIVAAAC.aac?
+https://24233.live.streamtheworld.com/OLP_NEIVAAAC.aac?dist=OlpNeiWeb
 #EXTINF:0,OLIMPICA STEREO PEREIRA
 #EXTVLCOPT:network-caching=1000
 https://26593.live.streamtheworld.com/OLP_PEREIRAAAC.aac?
@@ -49,13 +49,13 @@ https://26593.live.streamtheworld.com/OLP_PEREIRAAAC.aac?
 https://14553.live.streamtheworld.com/OLP_SANTA_MARTAAAC.aac?
 #EXTINF:0,OLIMPICA STEREO SINCELEJO
 #EXTVLCOPT:network-caching=1000
-https://26253.live.streamtheworld.com/OLP_SINCELEJOAAC.aac?
+https://22823.live.streamtheworld.com/OLP_SINCELEJO_SC
 #EXTINF:0,OLIMPICA STEREO VALLEDUPAR
 #EXTVLCOPT:network-caching=1000
-https://24373.live.streamtheworld.com/OLP_VALLEDUPARAAC.aac?
+https://14133.live.streamtheworld.com/OLP_VALLEDUPARAAC_SC
 #EXTINF:0,OLIMPICA STEREO VILLAVICENCIO
 #EXTVLCOPT:network-caching=1000
-https://26513.live.streamtheworld.com/OLP_VILLAVICENCIOAAC_SC
+https://26673.live.streamtheworld.com/OLP_VILLAVICENCIOAAC_SC
 #EXTINF:0,OLIMPICA STEREO HONDA
 #EXTVLCOPT:network-caching=1000
 https://server2.ejeserver.com:8240/stream
@@ -70,7 +70,7 @@ https://server2.ejeserver.com:8844/stream
 https://server2.ejeserver.com:8248/stream
 #EXTINF:0,Olimpica Stereo 99.0 Zaragoza
 #EXTVLCOPT:network-caching=1000
-https://27353.live.streamtheworld.com/OLP_CALIAAC.aac?
+http://eu1.lhdserver.es:3080/stream
 #EXTINF:0,TROPICANA ARMENIA
 #EXTVLCOPT:network-caching=1000
 https://24233.live.streamtheworld.com/TR_ARMENIA_SC
@@ -85,7 +85,7 @@ https://26573.live.streamtheworld.com/TROPICANAAAC_SC
 https://24363.live.streamtheworld.com/TR_TUNJAAAC.aac?
 #EXTINF:0,TROPICANA CALI
 #EXTVLCOPT:network-caching=1000
-https://26513.live.streamtheworld.com/TR_CALIAAC.aac?
+https://24283.live.streamtheworld.com/TR_CALI_SC
 #EXTINF:0,TROPICANA CARTAGENA
 #EXTVLCOPT:network-caching=1000
 https://24363.live.streamtheworld.com/TR_CARTAGENA_SC
@@ -94,19 +94,19 @@ https://24363.live.streamtheworld.com/TR_CARTAGENA_SC
 https://26563.live.streamtheworld.com/TR_CUCUTAAAC.aac?
 #EXTINF:0,TROPICANA IBAGUE
 #EXTVLCOPT:network-caching=1000
-https://27383.live.streamtheworld.com/TR_IBAGUEAAC.aac?
+https://22823.live.streamtheworld.com/TROPICANA_SC
 #EXTINF:0,TROPICANA MANIZALES
 #EXTVLCOPT:network-caching=1000
 https://24363.live.streamtheworld.com/TR_MANIZALESAAC.aac?
 #EXTINF:0,TROPICANA MEDELLIN
 #EXTVLCOPT:network-caching=1000
-https://26493.live.streamtheworld.com/TR_MEDELLINAAC.aac?
+https://26593.live.streamtheworld.com/TR_MEDELLIN_SC
 #EXTINF:0,TROPICANA MONTERIA
 #EXTVLCOPT:network-caching=1000
 https://26523.live.streamtheworld.com/TROPICANA_SC
 #EXTINF:0,TROPICANA NEIVA
 #EXTVLCOPT:network-caching=1000
-https://27413.live.streamtheworld.com/TR_NEIVAAAC.aac?
+https://24383.live.streamtheworld.com/TROPICANA_SC
 #EXTINF:0,TROPICANA PASTO
 #EXTVLCOPT:network-caching=1000
 https://26563.live.streamtheworld.com/TR_PASTOAAC.aac
@@ -121,7 +121,7 @@ https://26593.live.streamtheworld.com/TR_POPAYANAAC.aac?
 https://26573.live.streamtheworld.com/TR_VILLAVICENCIOAAC.aac?
 #EXTINF:0,LA REINA BARRANQUILLA
 #EXTVLCOPT:network-caching=1000
-https://15263.live.streamtheworld.com/RNA_BARRANQUILLA_SC
+https://27573.live.streamtheworld.com/RNA_BARRANQUILLA_SC
 #EXTINF:0,LA REINA CARTAGENA
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/RNA_CARTAGENA_SC
